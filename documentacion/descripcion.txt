@@ -1,0 +1,10 @@
+Nombre del proyecto: StockFlow
+
+Problema:
+Muchos pequeños y medianos comercios aún gestionan su mercancía mediante hojas de cálculo manuales o libretas, lo que provoca desabasto inesperado, exceso de inventario, pérdidas por caducidad y errores al calcular ganancias.
+
+Objetivo:
+Desarrollar una plataforma web intuitiva que automatice el registro de entradas y salidas de productos, generando alertas en tiempo real y reportes claros para optimizar la toma de decisiones.
+
+Descripción:
+StockFlow es un sistema de gestión de inventarios diseñado para negocios en crecimiento. Permite controlar existencias desde cualquier dispositivo, recibir notificaciones de stock mínimo, gestionar proveedores y visualizar métricas clave de ventas y rotación de productos en un solo lugar.
